@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JENIL-SONI
-- 👀 I’m interested in 
+- 👋 Hi, I’m @JENIL-SONI 
 - 🌱 I’m currently a CSE student
 - 📫 You can reach me at dailycoderjs@gmail.com 
 
